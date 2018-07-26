@@ -19,9 +19,9 @@ This is the final report on the attachment.  Students should as much as possible
   4. Computer Science/ICT/Informatics background
   5. Your strength and weakness
 
-**6.        Conclusions, Recommendations, and Future learning**
+**6.  Conclusions, Recommendations, and Future learning**
 
-**7.        Appendices**
+**7.  Appendices**
 
 - Your work schedule
 - Correspondence

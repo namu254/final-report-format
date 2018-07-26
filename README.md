@@ -1,6 +1,6 @@
 
 
-**#THE FINAL REPORT**
+#THE FINAL REPORT
 
 This is the final report on the attachment.  Students should as much as possible submit preliminary reports to both supervisors in order to get feed back on content and format and other elements such as grammar and style.  These four are emphasized in assessment of the final report.  Although supervisors may or may not adopt all the elements the general format below should be used for the final report
 

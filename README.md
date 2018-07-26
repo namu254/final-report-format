@@ -13,8 +13,6 @@ This is the final report on the attachment.  Students should as much as possible
 **4.  Department/sections you work in and your responsibilities**
 
 **5.  Report on:**
-
-1.
   1. Attachment activities and experience
   2. Interaction with staff in the company
   3. Problems and opportunities
